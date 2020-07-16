@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body{
+    background-image: url("img/fita.png");
+    background-repeat:repeat;
+    padding: 40px;
+
+    
+
+}
+
+.Titulo{
+    color:white;
+    font: normal 30pt Arial;
+
+
+}
+.container{
+    border: solid 5px darkcyan;
+    background-color: grey;
+    padding-bottom: 50px;
+
+
+}
